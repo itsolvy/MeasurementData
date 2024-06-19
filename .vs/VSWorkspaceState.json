@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MeasurementData.Web"
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\MeasurementData.Web\\MeasurementData.Web.sln",
+  "SelectedNode": "\\MeasurementData.Web",
   "PreviewInSolutionExplorer": false
 }

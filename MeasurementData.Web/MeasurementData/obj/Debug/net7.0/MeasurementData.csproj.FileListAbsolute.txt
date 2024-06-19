@@ -1,7 +1,0 @@
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.csproj.AssemblyReference.cache
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.AssemblyInfoInputs.cache
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.AssemblyInfo.cs
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.csproj.CoreCompileInputs.cache
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Solovev.IP\source\repos\itsolvy\MeasurementData\MeasurementData.Web\MeasurementData\obj\Debug\net7.0\MeasurementData.MvcApplicationPartsAssemblyInfo.cache
