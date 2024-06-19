@@ -274,3 +274,4 @@ appsettings.*.json
 /MeasurementData.Web/.vs/MeasurementData/v17/.suo
 /MeasurementData.Web/.vs/MeasurementData.Web/DesignTimeBuild/.dtbcache.v2
 /MeasurementData.Web/.vs/MeasurementData.Web/FileContentIndex/3d106455-8734-494c-a2a3-d8a84c9fb774.vsidx
+/.vs/slnx.sqlite

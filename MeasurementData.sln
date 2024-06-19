@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeasurementData.Web", "MeasurementData\MeasurementData.Web\MeasurementData.Web.csproj", "{79BD377E-E046-460C-AA7E-6C9EFA43C208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeasurementData.Web", "MeasurementData.Web\MeasurementData.Web.csproj", "{67632A26-8A28-43FB-A9DA-8A2090840028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{79BD377E-E046-460C-AA7E-6C9EFA43C208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79BD377E-E046-460C-AA7E-6C9EFA43C208}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79BD377E-E046-460C-AA7E-6C9EFA43C208}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79BD377E-E046-460C-AA7E-6C9EFA43C208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67632A26-8A28-43FB-A9DA-8A2090840028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67632A26-8A28-43FB-A9DA-8A2090840028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67632A26-8A28-43FB-A9DA-8A2090840028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67632A26-8A28-43FB-A9DA-8A2090840028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

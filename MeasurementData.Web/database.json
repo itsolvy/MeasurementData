@@ -1,0 +1,19 @@
+{
+  "general": {
+    "provider": "PostgreSQL",
+    "output": "./DB/Model",
+    "overwrite": true
+  },
+  "schema": {
+    "exclude-schemas": [
+      "hangfire",
+      "hangfire_local",
+      "hangfire_dev",
+      "hangfire_rc",
+      "hangfire_prod"
+    ]
+  },
+  "dataModel": {
+    "context-name": "AppDataConnection"
+  }
+}
