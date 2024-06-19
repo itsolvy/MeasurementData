@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeasurementData.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6359f457d193b3122353604dd7ca83784a9f37d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeasurementData.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeasurementData.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
